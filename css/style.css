@@ -17,12 +17,13 @@ nav li {
     line-height: 40px;
     height: 40px;
     display: inline-block;
-    margin-left: 2.5%;
+    margin-left: 2.5%
+    %;
     }
     
-    nav a {
+nav a {
         text-decoration: none;
-        color: #fffffff;
+        color: #ffffff;
         display: block;
     }
 
@@ -34,11 +35,23 @@ nav a:hover {
 .card {
     float: left;
     width: 20%;
-    margin-left: 10%;
+    margin-left: 5%;
 }
 
 .card a {
     text-align: center;
+}
+
+.page-text1 {
+    color:tomato;
+}
+
+.page-text2 {
+    color:dodgerblue;
+}
+
+.page-text3 {
+    color:mediumseagreen;
 }
 
 img {
